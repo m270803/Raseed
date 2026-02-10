@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517818146196",
+    "project_id": "projectraseed-app",
+    "storage_bucket": "projectraseed-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517818146196:android:b7092c731840b4d1454381",
+        "android_client_info": {
+          "package_name": "com.adityamishra.raseed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517818146196-f8kc4ckdn279iskkgthlmug52fqvoj0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityamishra.raseed",
+            "certificate_hash": "73d3046f959f26bfb2ff80d37461640ac3e27a1b"
+          }
+        },
+        {
+          "client_id": "517818146196-1dg9ktb3cdv56s88hnbuef8qcoruhnp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZ1eV0QLqTkKmLyTUwhpqY7wZiCvpRFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517818146196-1dg9ktb3cdv56s88hnbuef8qcoruhnp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
